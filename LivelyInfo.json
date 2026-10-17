@@ -1,0 +1,10 @@
+{
+  "AppVersion": "2.2.1.0",
+  "Title": "引力之旅 · Gravity Journey",
+  "Desc": "基于 Three.js/WebGL 的互动黑洞场景",
+  "Author": "小艾不迟到",
+  "Contact": "https://gravity-journey-d8frjj7e4075568c-1486766805.tcloudbaseapp.com/",
+  "Type": 1,
+  "FileName": "index.html",
+  "IsAudioReactive": false
+}
